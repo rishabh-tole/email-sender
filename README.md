@@ -21,7 +21,6 @@ The system is designed to be easy for normal users while still being structured 
 
 1. [Overview](#overview)
 2. [How to Use](#how-to-use)
-   - [Initial Setup](#initial-setup)
    - [Daily Workflow](#daily-workflow)
    - [Testing Workflow](#testing-workflow)
    - [Full Send Workflow](#full-send-workflow)
