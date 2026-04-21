@@ -2,7 +2,7 @@
 
 A reusable, non-technical-friendly email sending system built on **Google Sheets + Google Apps Script**.
 
-This tool lets a team:
+This tool lets Masala (or any other org):
 
 - store reusable HTML email templates
 - paste recipient lists into a sheet
